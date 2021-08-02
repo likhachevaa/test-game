@@ -1,4 +1,10 @@
 # test-game
-Test game on phaser
+Тестовое задание 
+
 # Реализация
-HTML 5, Canvas, JS + Babel, Phaser, Webpack
+
+* HTML 5, Canvas
+* JS + Babel
+* Phaser
+* Webpack
+
